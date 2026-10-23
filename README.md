@@ -33,18 +33,45 @@ Continuously improving my programming, data analysis, and automation skills thro
 
 
 
-<h2 align="center">⚡ Technologies I Work With</h2>
+
+<h2 align="center">⚡ My Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+  <i>Tools I use to build, automate, and explore.</i>
 </p>
+
+<h3 align="center">🐍 Programming & Web</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/>
+  </a>
 </p>
+
+<h3 align="center">📊 Data Analysis</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Data%20Computing-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-Analysis-6C63FF?style=flat-square" alt="Data Visualization"/>
 </p>
 
+<h3 align="center">⚙️ Automation</h3>
 
+<p align="center">
+  <a href="https://n8n.io/">
+    <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  </a>
+</p>
