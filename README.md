@@ -32,15 +32,19 @@ Continuously improving my programming, data analysis, and automation skills thro
 *Learning by building, one project at a time.*
 
 
-### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<h2 align="center">⚡ Technologies I Work With</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
 
