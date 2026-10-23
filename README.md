@@ -21,6 +21,16 @@ I'm interested in Python projects and workflow automation. I enjoy learning new 
 
 ### 📚 Currently Learning    
 
+Continuously improving my programming, data analysis, and automation skills through practical projects.
+
+### 🤝 Connect With Me
+
+- GitHub: [@tarunrajak17](https://github.com/tarunrajak17)
+
+---
+
+*Learning by building, one project at a time.*
+
 
 ### 🛠️ Tech Stack
 
@@ -34,14 +44,3 @@ I'm interested in Python projects and workflow automation. I enjoy learning new 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-
-
-Continuously improving my programming, data analysis, and automation skills through practical projects.
-
-### 🤝 Connect With Me
-
-- GitHub: [@tarunrajak17](https://github.com/tarunrajak17)
-
----
-
-*Learning by building, one project at a time.*
